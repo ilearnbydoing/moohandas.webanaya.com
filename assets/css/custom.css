@@ -1,0 +1,53 @@
+.container {
+  max-width: 960px !important;}
+
+.bg-head-image{
+    background: no-repeat 0 0 url("../img/header-bg.jpg");
+    padding-bottom: 650px !important;
+  }
+
+  .no-pad {padding: 0px !important;}
+
+.text-orange{ color: #ff9400;}
+
+.text-clay{ color: #f4750c;}
+
+.bg-red{ background-color: #ce3939}
+
+.btn-blue{ background-color: #1E88E5 !important;}
+
+.bg-blue{ background-color: #2886e0;}
+
+.bg-blue-light{ background-color: #1fa8dd;}
+.bg-sky-blue{ background-color: #257eb1;}
+
+.bg-blue-dark{ background-color: #1c2953;}
+
+.bg-pink{ background-color:#e01c52;}
+
+.font-size-22{ font-size: 22px; line-height: 28px;}
+.bg-grey{ background-color: #fcfcfc;}
+
+.bg-grey-dark{ background-color:#374659;}
+
+.bg-green-light{ background-color: #8dc350;}
+.bg-pink-light{ background-color: #fa77c9;}
+.bg-brown-light{ background-color: #e5d06f;}
+.bg-purple-light{ background-color: #8d6bd7;}
+.list-style2{
+  list-style: none;
+}
+.list-style2{
+  font-size:20px;
+  line-height: 40px;
+  font-weight: bold;
+}
+.list-style2 li::before {
+  content: "\2022";
+  color: #ce3939;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+
+}
